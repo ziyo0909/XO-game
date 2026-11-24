@@ -1,1 +1,1 @@
-This is a simple XO game played on with console
+This is a simple XO game played with console
