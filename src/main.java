@@ -42,17 +42,6 @@ public class main {
 	public static void makemove(char[] board) {
 
 		Scanner scan = new Scanner(System.in);
-		
-//		char turnname = 'X';
-//		if(turn==0) {
-//			turnname='X';
-//			turn=1;
-//		}
-//		else if(turn==1){
-//			turnname='O';
-//			turn=0;
-//		}
-//		-----turn/\-------------------------------------------
 		String printturn = "fih";
 		if(turn==0) {
 			printturn = "X";
