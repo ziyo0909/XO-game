@@ -13,7 +13,6 @@ public class main {
 						'-','+','-','+','-',
 						' ','|',' ','|',' '};
 		System.out.println("Tutorial: Enter the number of space you want to use (top left-1, bottom right-9)");
-		System.out.println("Trying to use a space that is already in use will stop the game(for now)");
 		printboard(board);
 		while(wincheck(board)) {
 			makemove(board);
